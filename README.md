@@ -53,6 +53,7 @@ Aqui você encontrará diversos projetos e exemplos práticos desenvolvidos ao l
 
 ## 🔗 Links Úteis
 
+* **Plataforma onde estou aprendendo (Infinity Big Data):** [https://meuscursos.infinitybigdata.com/m/courses](https://meuscursos.infinitybigdata.com/m/courses)
 * **Meu Perfil no GitHub:** [github.com/GPetrolini](https://github.com/GPetrolini)
 * **Meu Perfil no LinkedIn:** [https://www.linkedin.com/in/gustavo-petrolini-885080213/](https://www.linkedin.com/in/gustavo-petrolini-885080213/)
 * **Repositório Anterior (Udemy):** [github.com/GPetrolini/Domine-a-Engenharia-de-Dados-Curso-Udemy](https://github.com/GPetrolini/Domine-a-Engenharia-de-Dados-Curso-Udemy)
