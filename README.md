@@ -1,67 +1,54 @@
-# Data Engineer: Complete Learning Path 🚀
+# Masterclass de Fundamentos em Engenharia de Dados 🚀
 
-[![Made with Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Made with SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+Este repositório documenta minha jornada de aprendizado e aprofundamento nos fundamentos da Engenharia de Dados. O objetivo é consolidar conhecimentos, desenvolver projetos práticos e construir um portfólio técnico robusto.
+
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/pt-br/sql-server)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+[![SSIS](https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services)
 [![Microsoft Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Total Hours](https://img.shields.io/badge/Total_Hours-86%2B-blue?style=for-the-badge)](https://www.linkedin.com/in/gpetrolini/) ---
+[![Total Hours](https://img.shields.io/badge/Total_Hours-88%2B-blue?style=for-the-badge)](https://www.linkedin.com/in/gpetrolini/) ---
 
-## 📚 Visão Geral do Projeto
-
-Este repositório documenta meu percurso de aprendizado aprofundado em Engenharia de Dados, cobrindo desde a análise de dados com SQL, programação Python (do básico ao avançado), manipulação de repositórios com GitHub, até o uso avançado do Excel e fundamentos de Power BI.
-
-Representa uma expansão significativa do meu conhecimento em comparação com cursos anteriores, totalizando mais de **86 horas de conteúdo focado em construir uma base sólida para a carreira de Engenheiro de Dados**. Meu objetivo com este repositório é consolidar os conhecimentos, praticar as habilidades adquiridas e servir como um portfólio de projetos para futuras oportunidades.
 
 ---
 
-## 🎯 Conteúdo Abordado
+## 📚 Módulos de Estudo e Status
 
-Os módulos de estudo e as principais ferramentas/tópicos cobertos neste "Complete Learning Path" incluem:
+Aqui está a trilha de cursos que compõem esta masterclass, juntamente com o status atual de cada um. Cada módulo possui sua própria pasta no repositório com projetos, anotações e códigos relevantes.
 
-* **SQL (Análise de Dados):**
-    * Consultas avançadas
-    * Manipulação e transformação de dados
-    * Joins, Subqueries, CTEs, Funções de Janela
-* **Python (Do Básico Ao Avançado):**
-    * Fundamentos da linguagem
-    * Estruturas de dados, algoritmos
-    * Bibliotecas essenciais para dados (Pandas, NumPy, Matplotlib)
-    * Orientação a Objetos
-* **GitHub (Manipulando Repositórios):**
-    * Controle de versão com Git
-    * Gerenciamento de repositórios
-    * Colaboração e pull requests
-* **Excel (Advanced):**
-    * Funções avançadas e fórmulas complexas
-    * Análise de dados com tabelas dinâmicas e gráficos
-    * Automação com macros (VBA - se aplicável)
-* **Power BI (Fundamentos):**
-    * Conexão e transformação de dados (Power Query)
-    * Criação de modelos de dados
-    * Desenvolvimento de dashboards e relatórios interativos
-    * Noções de DAX
+| Módulo | Status | Principais Tópicos |
+| :--- | :---: | :--- |
+| 🐍 **Python para Dados** | ✅ Finalizado | Foco em ETL, manipulação de dados, scripts, automação. |
+| 🗂️ **Excel Avançado** | ✅ Finalizado | Fórmulas complexas, tabelas dinâmicas, automação com Macros e VBA. |
+| 🐙 **Versionamento com Git & GitHub** | ✅ Finalizado | Comandos Git, controle de versão, boas práticas em repositórios. |
+| 🗄️ **SQL com SQL Server** | ⏳ Em andamento | Consultas (do básico ao avançado), modelagem, Stored Procedures. |
+| ⚙️ **SQL Server Integration Services (SSIS)** | 📋 Não iniciado | Criação de pacotes de ETL, fluxo de dados, automação de cargas. |
+| 📊 **Power BI** | 📋 Não iniciado | Tratamento de dados no Power Query, modelagem, DAX, visualização. |
 
 ---
----
 
-## ✨ Projetos e Aplicações
+## 🎯 Estrutura do Repositório
 
-Aqui você encontrará diversos projetos e exemplos práticos desenvolvidos ao longo dos cursos, demonstrando a aplicação das habilidades em cenários reais. Cada pasta de módulo pode conter subpastas específicas para projetos.
+Para facilitar a navegação, o repositório está organizado da seguinte forma:
+
+* **Curso SQL Server**: Contém todos os scripts, desafios e projetos desenvolvidos durante o curso de SQL Server.
+* **Curso Python**: Scripts e projetos focados no uso de Python para extração, transformação e carga de dados.
+* **Curso Excel**: Planilhas, exemplos de fórmulas e códigos VBA do módulo de Excel.
+* **(outras pastas serão adicionadas conforme o progresso)**
+
+Cada pasta contém um **README.md** específico com mais detalhes sobre os projetos e aprendizados daquele módulo.
 
 ---
 
 ## 🔗 Links Úteis
 
-* **Plataforma onde estou aprendendo (Infinity Big Data):** [https://meuscursos.infinitybigdata.com/m/courses](https://meuscursos.infinitybigdata.com/m/courses)
-* **Meu Perfil no GitHub:** [github.com/GPetrolini](https://github.com/GPetrolini)
-* **Meu Perfil no LinkedIn:** [https://www.linkedin.com/in/gustavo-petrolini-885080213/](https://www.linkedin.com/in/gustavo-petrolini-885080213/)
-* **Repositório Anterior (Udemy):** [github.com/GPetrolini/Domine-a-Engenharia-de-Dados-Curso-Udemy](https://github.com/GPetrolini/Domine-a-Engenharia-de-Dados-Curso-Udemy)
+* **Plataforma de Estudos:** [Infinity Big Data](https://meuscursos.infinitybigdata.com/m/courses)
+* **Meu Perfil no LinkedIn:** [Gustavo Petrolini](https://www.linkedin.com/in/gustavo-petrolini-885080213/)
+* **Repositório Anterior (Udemy):** [Domine a Engenharia de Dados](https://github.com/GPetrolini/Domine-a-Engenharia-de-Dados-Curso-Udemy)
 
 ---
 
 ## 🙋‍♂️ Contato
 
-Sinta-se à vontade para entrar em contato caso tenha dúvidas, sugestões ou queira colaborar!
-
----
+Sinta-se à vontade para entrar em contato, tirar dúvidas ou dar sugestões!
