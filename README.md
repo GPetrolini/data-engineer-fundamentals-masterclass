@@ -22,9 +22,9 @@ Aqui está a trilha de cursos que compõem esta masterclass, juntamente com o st
 | 🐍 **Python para Dados** | ✅ Finalizado | Foco em ETL, manipulação de dados, scripts, automação. |
 | 🗂️ **Excel Avançado** | ✅ Finalizado | Fórmulas complexas, tabelas dinâmicas, automação com Macros e VBA. |
 | 🐙 **Versionamento com Git & GitHub** | ✅ Finalizado | Comandos Git, controle de versão, boas práticas em repositórios. |
-| 🗄️ **SQL com SQL Server** | ⏳ Em andamento | Consultas (do básico ao avançado), modelagem, Stored Procedures. |
-| ⚙️ **SQL Server Integration Services (SSIS)** | 📋 Não iniciado | Criação de pacotes de ETL, fluxo de dados, automação de cargas. |
-| 📊 **Power BI** | 📋 Não iniciado | Tratamento de dados no Power Query, modelagem, DAX, visualização. |
+| 🗄️ **SQL com SQL Server** | ✅ Finalizado | Consultas (do básico ao avançado), modelagem, Stored Procedures. |
+| ⚙️ **SQL Server Integration Services (SSIS)** | ✅ Finalizado | Criação de pacotes de ETL, fluxo de dados, automação de cargas. |
+| 📊 **Power BI** | ⏳ Em andamento | Tratamento de dados no Power Query, modelagem, DAX, visualização. |
 
 ---
 
